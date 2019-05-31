@@ -57,6 +57,7 @@ class _RandomWordsState extends State<RandomWords> {
     Navigator.of(context).push(
       new MaterialPageRoute(
         builder: (context) {
+
           final tiles = _saved.map(
             (pair) {
               return new ListTile(
@@ -66,6 +67,7 @@ class _RandomWordsState extends State<RandomWords> {
               );
             },
           );
+
           final divided = ListTile.divideTiles(
             context: context,
             tiles: tiles,
