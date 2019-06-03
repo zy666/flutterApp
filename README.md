@@ -4,13 +4,23 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+2-1 Widget框架总览（上）
+本节demo: **HelloWord.dart**
+包含内容:
+1. HelloWorld
+2. 基础widget
+3. 使用material
 
-A few resources to get you started if this is your first Flutter project:
+2-1 Widget框架总览（中）
+本节demo: **HelloWord.dart**
+包含内容:
+1. 处理手势
+2. 根据用户输入改变widget
+3. 整合所有
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+2-1 Widget框架总览（下）
+本节demo: **HelloWord.dart**
+包含内容:
+1. 响应widget生命周期
+2. key
+3. 全局key
